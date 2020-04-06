@@ -1,0 +1,4 @@
+github.com/offscale/goffkv v0.0.0-20200406121130-11b30fc5dc62 h1:qCrc9TNqtl43jdDl5L22ylO0BEaOvGtCiY7aol0caqs=
+github.com/offscale/goffkv v0.0.0-20200406121130-11b30fc5dc62/go.mod h1:XyfgiCT+05OJbQ/BVpvs2Tmu2+j2V2ctqD65pmkRNAA=
+github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da h1:p3Vo3i64TCLY7gIfzeQaUJ+kppEO5WQG3cL8iE8tGHU=
+github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
